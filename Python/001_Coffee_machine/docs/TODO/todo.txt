@@ -1,0 +1,28 @@
+# TODO LIST
+
+# TODO 1.- Print report. The machine has to be able to tell us what resources it has left.
+#  All resources must be displayed, with the keyword resources:
+#   · Water
+#   · Milk
+#   · Coffee
+#   · Chocolate
+#   · Money
+
+# TODO 2.- Check that the resources are sufficient when the user requests an order. If you do not have enough resources, a message should appear indicating which resource or resources are insufficient
+# Search among all the resources and compare with the necessary resources for the requested drink and if you do not have enough resources, send a message.
+
+# TODO 3.- Ability to process coins.
+# It will request the amount to be paid in each currency (It can be improved by adding a verifier and control)
+# If the amount of coins is insufficient, send message to the user.
+# returns change.
+
+# TODO 4.- Check that the transaction has been carried out successfully and that the user is not trying to deceive the machine.
+# If not enough coins are introduced, the money is returned and a message is sent.
+
+# TODO 5.- If the transaction is successful, the coffee will be prepared
+# Resources will be reduced as orders are placed.
+
+# TODO 6.- Clear screen on every cicle and only show de menu
+
+# TODO DOCSTRINGS:
+# Update the docstrings
