@@ -2,9 +2,7 @@
 
 # FIXME Revise the coin processor and add a function for establish the correct number with refund is processed
 
-# TODO Revise all Function and optimize. 1 Function 1 Task
-
-# TODO Function thats checks coins before next steps
+# TODO Revise all functions and optimize. 1 functions 1 Task
 
 import os
 from re import match
